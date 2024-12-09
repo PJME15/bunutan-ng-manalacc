@@ -4,10 +4,10 @@ const nameList = document.getElementById('nameList');
 const userNameInput = document.getElementById('userName');
 const validateNameButton = document.getElementById('validateNameButton');
 
-// Define the allowed names (the names users can enter)
+
 const allowedNames = ["Erika", "Joy", "MJ", "Khian", "erika", "joy", "mj", "khian"];
 
-// Predefined list of names (the ones eligible to be drawn)
+
 let names = [
     "Tito Bobet", "Tita Bebe", "Angel", "Janjan", "Joyjoy", "Tito Abet", "Tita Nene", "Erika", "Aaron", "Jean", "Andrea", 
     "Aliya", "Tito Milo", "Tintin", "Khian", "Olim", "Kim", "Lola", "Tito Roger", "Tita Rina", "Badoy", "Manny", "MJ", "Zariyah"
